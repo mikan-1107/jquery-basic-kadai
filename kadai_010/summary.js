@@ -11,4 +11,4 @@ $(function () {
   $('#fade-in').on('click', function () {
     $('#target').fadeIn();
   });
-})
+});
